@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ObjectManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="14" Column="14" />
+      <File FileName="Assets\Scripts\Rock.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\ObjectManager.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\Drawable.cs" Line="4" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
