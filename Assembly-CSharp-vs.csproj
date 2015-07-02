@@ -50,6 +50,9 @@
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\ObjectManager.cs" />
      <Compile Include="Assets\Scripts\Rock.cs" />
+     <Compile Include="Assets\Scripts\UIController.cs" />
+     <Compile Include="Assets\Scripts\Upgrade.cs" />
+     <Compile Include="Assets\Scripts\UpgradeManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

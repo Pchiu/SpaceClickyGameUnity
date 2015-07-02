@@ -16,7 +16,6 @@ public class Rock : Drawable {
 
 	void OnMouseDown() 
 	{
-		GameController.addClicks(1);
-		Debug.Log ("Clicked!");
+		GameController.addClicks();
 	}
 }
